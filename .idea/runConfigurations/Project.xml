@@ -1,0 +1,41 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Project" type="JarApplication">
+    <extension name="coverage">
+      <pattern>
+        <option name="PATTERN" value="com.*" />
+        <option name="ENABLED" value="false" />
+      </pattern>
+      <pattern>
+        <option name="PATTERN" value="com.Admin.*" />
+        <option name="ENABLED" value="true" />
+      </pattern>
+      <pattern>
+        <option name="PATTERN" value="com.Excel.*" />
+        <option name="ENABLED" value="true" />
+      </pattern>
+      <pattern>
+        <option name="PATTERN" value="com.GUI.*" />
+        <option name="ENABLED" value="true" />
+      </pattern>
+      <pattern>
+        <option name="PATTERN" value="com.StartPoint.*" />
+        <option name="ENABLED" value="true" />
+      </pattern>
+      <pattern>
+        <option name="PATTERN" value="com.Student.*" />
+        <option name="ENABLED" value="true" />
+      </pattern>
+      <pattern>
+        <option name="PATTERN" value="com.Teacher.*" />
+        <option name="ENABLED" value="true" />
+      </pattern>
+    </extension>
+    <option name="JAR_PATH" value="$PROJECT_DIR$/out/artifacts/Project_Excel_jar/Project-Excel.jar" />
+    <option name="WORKING_DIRECTORY" value="E:\FAST\Semester 2\OOP Lab\Project" />
+    <option name="ALTERNATIVE_JRE_PATH" />
+    <module name="University Portal" />
+    <method v="2">
+      <option name="BuildArtifacts" enabled="true" />
+    </method>
+  </configuration>
+</component>
